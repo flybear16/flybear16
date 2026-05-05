@@ -23,13 +23,13 @@ class FlyBear:
 
 ### 🏆 代表项目
 
-| 项目 | ⭐ | 简介 |
-|------|---|------|
-| [**otto123**](https://github.com/flybear16/otto123) | — | 开源机器人创客教育平台，面向青少年兴趣课 |
-| [**skillhub-market**](https://github.com/flybear16/skillhub-market) | 1 | Skill 私有交易平台，企业级 Skill 市场 |
-| [**indietools-ai**](https://github.com/flybear16/indietools-ai) | — | AI 工具站导航，为独立开发者精选 AI 工具 |
-| [**photo-restorer**](https://github.com/flybear16/photo-restorer) | — | AI 老照片修复工坊，修复模糊/划痕/褪色 |
-| [**competitor-monitor**](https://github.com/flybear16/competitor-monitor) | — | 竞品动态监控机器人，追踪竞品产品更新 |
+| 项目 | 简介 |
+|------|------|
+| [**otto123**](https://github.com/flybear16/otto123) | 开源机器人创客教育平台，面向初中晚托班兴趣课，ESP32-S3+AI |
+| [**indietools-ai**](https://github.com/flybear16/indietools-ai) | AI 工具站导航，为独立开发者精选 AI 工具，支持分类筛选 |
+| [**skillhub-market**](https://github.com/flybear16/skillhub-market) | Skill 私有交易平台，企业级 Skill 市场解决方案 |
+| [**photo-restorer**](https://github.com/flybear16/photo-restorer) | AI 老照片修复，修复模糊/划痕/褪色，支持上色和动态化 |
+| [**competitor-monitor**](https://github.com/flybear16/competitor-monitor) | 竞品动态监控机器人，自动追踪竞品产品更新、定价变化 |
 
 ---
 
