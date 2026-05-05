@@ -64,7 +64,6 @@ class FlyBear:
 
 ### 📫 联系我
 
-- 🌐 个人网站：[east196.cn](https://east196.cn)
 - 🐙 GitHub：[@flybear16](https://github.com/flybear16)
 
 ---
