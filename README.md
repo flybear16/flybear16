@@ -1,21 +1,22 @@
 # 你好，我是飞熊 👋
 
-> 全栈开发者 · AI 应用探索者 · 开源爱好者
+> **AI编程 × 智能硬件实践者** · 让想法长出骨头
 
 ```python
 class FlyBear:
     def __init__(self):
         self.name = "飞熊 (flybear16)"
         self.location = "杭州, 中国"
-        self.motto = "临渊羡鱼，不如退而结网"
+        self.role = "AI编程 × 智能硬件实践者"
+        self.motto = "让想法长出骨头"
 
     @property
     def skills(self):
         return {
             "languages": ["Python", "Java", "TypeScript"],
-            "domains": ["AI 应用", "量化交易", "IoT 智能硬件", "全栈工程"],
+            "domains": ["AI 编程", "智能硬件", "偶尔量化", "开源项目"],
             "tools": ["Spring Boot", "Next.js", "ESP32", "DeepSeek", "LangChain"],
-            "interests": ["八极拳", "易经", "AI 编程", "开源项目"],
+            "interests": ["八极拳", "易经", "开源项目"],
         }
 ```
 
@@ -68,4 +69,4 @@ class FlyBear:
 
 ---
 
-*"结网" — 与其羡慕别人的收获，不如动手编织自己的网。*
+*"让想法长出骨头" — 想法是 AI 编程的产物，骨头是硬件的骨架。*
